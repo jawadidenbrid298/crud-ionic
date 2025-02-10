@@ -1,0 +1,8 @@
+{
+  "name": "crud-ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite",
+  "id": "2bcc741e"
+}
